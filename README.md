@@ -1,2 +1,2 @@
 # consulta-cep
-api para consulta de simples de cep
+api para consulta  simples de cep
